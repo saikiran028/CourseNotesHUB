@@ -2,7 +2,7 @@
 # CourseNotesHUB
 =======
 # Course Notes Hub
-## An effective note management system that enables users to upload, download, and organize course notes. The entire system is developed using core PHP and MySQLi.
+## An effective note management system that enables users to upload, download, and organize course notes. The entire system is developed using core PHP and MySQL.
 
 
 ### Prerequisites
@@ -21,4 +21,4 @@
 - Secure Registration and Login: Ensures a secure registration and login process for users.
 - Streamlined Note Management: Facilitates easy downloading and uploading of course notes for both students and teachers.
 - Password Recovery: Provides users with the option to recover their passwords through the "forgot password" feature.
->>>>>>> 1de340e (Initial Commit)
+
